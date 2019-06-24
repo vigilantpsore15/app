@@ -1,4 +1,6 @@
 /* CSS files add styling rules to your content */
+<code>
+@media screen and (max-width: 481px){
 
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
@@ -9,3 +11,10 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+
+
+
+
+}
+</code>
+
